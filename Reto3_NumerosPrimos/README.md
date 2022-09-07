@@ -12,6 +12,40 @@ Este ejercicio ha sido resuelto mediante el metodo de la [Criba de Eratostenes](
 Para una n = 20
 
 1- Listar los números naturales comprendidos entre 2 hasta *n*.  
+<table border="1" cellspacing="0" cellpadding="2">
+
+<tbody><tr>
+<td bgcolor="#d1c4ad">2</td>
+<td bgcolor="#d1c4ad">3
+</td>
+<td bgcolor="#d1c4ad">4
+</td>
+<td bgcolor="#d1c4ad">5</td>
+<td bgcolor="#d1c4ad">6
+</td>
+<td bgcolor="#d1c4ad">7
+</td>
+<td bgcolor="#d1c4ad">8</td>
+<td bgcolor="#d1c4ad">9
+</td>
+<td bgcolor="#d1c4ad">10
+</td>
+<td bgcolor="#d1c4ad">11</td>
+<td bgcolor="#d1c4ad">12
+</td>
+<td bgcolor="#d1c4ad">13
+</td>
+<td bgcolor="#d1c4ad">14</td>
+<td bgcolor="#d1c4ad">15
+</td>
+<td bgcolor="#d1c4ad">16
+</td>
+<td bgcolor="#d1c4ad">17</td>
+<td bgcolor="#d1c4ad">18
+</td>
+<td bgcolor="#d1c4ad">19</td>
+<td bgcolor="#d1c4ad">20
+</td></tr></tbody></table>
 
 2- Se toma el primer número no rayado ni marcado, como número primo.  
 3- Se tachan todos los múltiplos del número que se acaba de indicar como primo.  
