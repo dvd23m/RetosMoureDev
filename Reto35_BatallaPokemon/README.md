@@ -12,5 +12,8 @@
  - Ataque: Entre 1 y 100.
  - Defensa: Entre 1 y 100.
 
-Para conocer la efectividad de los ataques :
+Para conocer la efectividad de los ataques :  
+![](https://github.com/dvd23m/RetosMoureDev/blob/main/Reto35_BatallaPokemon/efectividad.png)
+
+Fuente: https://pokemonreloaded.fandom.com/es/wiki/Tipos_elementales
 
