@@ -12,7 +12,7 @@ Este ejercicio ha sido resuelto mediante el metodo de la [Criba de Eratostenes](
 Para una n = 20
 
 1- Listar los números naturales comprendidos entre 2 hasta *n*.  
-[](https://github.com/dvd23m/RetosMoureDev/blob/main/Reto3_NumerosPrimos/Captura%20desde%202022-09-07%2018-22-31.png)
+![](https://github.com/dvd23m/RetosMoureDev/blob/main/Reto3_NumerosPrimos/Captura%20desde%202022-09-07%2018-22-31.png)
 
 2- Se toma el primer número no rayado ni marcado, como número primo.  
 
