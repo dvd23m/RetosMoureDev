@@ -8,7 +8,7 @@
 * **#1** - 03/01/22 - [`¿ ES UN ANAGRAMA ?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto2_Anagrama)
 * **#2** - 10/01/22 - [`LA SUCESIÓN DE FIBONACCI`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto3_Fibonacci)
 * **#3** - 17/01/22 - [`¿ES UN NÚMERO PRIMO?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto3_NumerosPrimos)
-* **#4** - 24/01/22 - [`ÁREA DE UN POLÍGONO`]
+* **#4** - 24/01/22 - [`ÁREA DE UN POLÍGONO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto4_AreaPoligono)
 * **#5** - 01/02/22 - [`ASPECT RATIO DE UNA IMAGEN`]
 * **#6** - 07/02/22 - [`INVIRTIENDO CADENAS`]
 * **#7** - 14/02/22 - [`CONTANDO PALABRAS`]
