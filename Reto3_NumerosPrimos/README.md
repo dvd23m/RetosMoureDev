@@ -20,9 +20,10 @@ Como $3^2 = 9 < 100$, se vuelve al segundo paso:
 
 En el cuarto paso, el primer número que no ha sido tachado ni marcado es 5. Como su cuadrado es mayor que *n*, el algoritmo termina y se consideran primos todos los números que no han sido tachados.
 
-<center>
+<p align="center">
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/68005809/188928576-acc2eaed-a42a-40f2-a967-0fe5eed8e1f5.gif)
-</center>
+</p>
+
 Como resultado se obtienen los números primos comprendidos entre 2 y 20, y estos son: 2, 3, 5, 7, 11, 13, 17, 19.
 
 
