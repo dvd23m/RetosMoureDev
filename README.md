@@ -39,6 +39,6 @@
 * **#32** - 08/08/22 - [`EL SEGUNDO`]
 * **#33** - 15/08/22 - [`CICLO SEXAGENARIO CHINO`]
 * **#34** - 22/08/22 - [`LOS NÚMEROS PERDIDOS`]
-* **#35** - 29/08/22 - [`BATALLA POKÉMON`]
+* **#35** - 29/08/22 - [`BATALLA POKÉMON`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto35_BatallaPokemon)
 
 
