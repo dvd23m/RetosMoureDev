@@ -12,80 +12,16 @@ Este ejercicio ha sido resuelto mediante el metodo de la [Criba de Eratostenes](
 Para una n = 20
 
 1- Listar los números naturales comprendidos entre 2 hasta *n*.  
-<table border="1" cellspacing="0" cellpadding="2">
-
-<tbody><tr>
-<td bgcolor="#d1c4ad">2</td>
-<td bgcolor="#d1c4ad">3
-</td>
-<td bgcolor="#d1c4ad">4
-</td>
-<td bgcolor="#d1c4ad">5</td>
-<td bgcolor="#d1c4ad">6
-</td>
-<td bgcolor="#d1c4ad">7
-</td>
-<td bgcolor="#d1c4ad">8</td>
-<td bgcolor="#d1c4ad">9
-</td>
-<td bgcolor="#d1c4ad">10
-</td>
-<td bgcolor="#d1c4ad">11</td>
-<td bgcolor="#d1c4ad">12
-</td>
-<td bgcolor="#d1c4ad">13
-</td>
-<td bgcolor="#d1c4ad">14</td>
-<td bgcolor="#d1c4ad">15
-</td>
-<td bgcolor="#d1c4ad">16
-</td>
-<td bgcolor="#d1c4ad">17</td>
-<td bgcolor="#d1c4ad">18
-</td>
-<td bgcolor="#d1c4ad">19</td>
-<td bgcolor="#d1c4ad">20
-</td></tr></tbody></table>
-
+ file:///home/dmolina/proyectos/MoureDev/reto3_Esprimo/Captura%20desde%202022-09-07%2018-22-31.png  
 2- Se toma el primer número no rayado ni marcado, como número primo.  
-<table border="1" cellspacing="0" cellpadding="2">
+ file:///home/dmolina/proyectos/MoureDev/reto3_Esprimo/Captura%20desde%202022-09-07%2018-23-04.png  
 
-<tbody><tr>
-<td bgcolor="#ff0000">2</td>
-<td bgcolor="#d1c4ad">3
-</td>
-<td bgcolor="#d1c4ad">4
-</td>
-<td bgcolor="#d1c4ad">5</td>
-<td bgcolor="#d1c4ad">6
-</td>
-<td bgcolor="#d1c4ad">7
-</td>
-<td bgcolor="#d1c4ad">8</td>
-<td bgcolor="#d1c4ad">9
-</td>
-<td bgcolor="#d1c4ad">10
-</td>
-<td bgcolor="#d1c4ad">11</td>
-<td bgcolor="#d1c4ad">12
-</td>
-<td bgcolor="#d1c4ad">13
-</td>
-<td bgcolor="#d1c4ad">14</td>
-<td bgcolor="#d1c4ad">15
-</td>
-<td bgcolor="#d1c4ad">16
-</td>
-<td bgcolor="#d1c4ad">17</td>
-<td bgcolor="#d1c4ad">18
-</td>
-<td bgcolor="#d1c4ad">19</td>
-<td bgcolor="#d1c4ad">20
-</td></tr></tbody></table>
 
 3- Se tachan todos los múltiplos del número que se acaba de indicar como primo.  
+ file:///home/dmolina/proyectos/MoureDev/reto3_Esprimo/Captura%20desde%202022-09-07%2018-23-09.png  
 4- Si el cuadrado del primer número que no ha sido rayado ni marcado es inferior a *n*, entonces se repite el segundo paso. Si no, el algoritmo termina, y todos los enteros no tachados son declarados primos.  
 Como $3^2 = 9 < 100$, se vuelve al segundo paso:  
+ file:///home/dmolina/proyectos/MoureDev/reto3_Esprimo/Captura%20desde%202022-09-07%2018-23-14.png  
 
 En el cuarto paso, el primer número que no ha sido tachado ni marcado es 5. Como su cuadrado es mayor que *n*, el algoritmo termina y se consideran primos todos los números que no han sido tachados.
 
