@@ -10,9 +10,9 @@
 * **#3** - 17/01/22 - [`¿ES UN NÚMERO PRIMO?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto3_NumerosPrimos)
 * **#4** - 24/01/22 - [`ÁREA DE UN POLÍGONO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto4_AreaPoligono)
 * **#5** - 01/02/22 - [`ASPECT RATIO DE UNA IMAGEN`]
-* **#6** - 07/02/22 - [`INVIRTIENDO CADENAS`]
-* **#7** - 14/02/22 - [`CONTANDO PALABRAS`]
-* **#8** - 18/02/22 - [`DECIMAL A BINARIO`]
+* **#6** - 07/02/22 - [`INVIRTIENDO CADENAS`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto6_InvirtiendoCadenas)
+* **#7** - 14/02/22 - [`CONTANDO PALABRAS`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto7_ContarPalabras)
+* **#8** - 18/02/22 - [`DECIMAL A BINARIO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto8_DecimalBinario)
 * **#9** - 02/03/22 - [`CÓDIGO MORSE`]
 * **#10** - 07/03/22 - [`EXPRESIONES EQUILIBRADAS`]
 * **#11** - 14/03/22 - [`ELIMINANDO CARACTERES`]
