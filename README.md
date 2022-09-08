@@ -15,7 +15,7 @@
 * **#8** - 18/02/22 - [`DECIMAL A BINARIO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto8_DecimalBinario)
 * **#9** - 02/03/22 - [`CÓDIGO MORSE`]
 * **#10** - 07/03/22 - [`EXPRESIONES EQUILIBRADAS`]
-* **#11** - 14/03/22 - [`ELIMINANDO CARACTERES`]
+* **#11** - 14/03/22 - [`ELIMINANDO CARACTERES`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto11_eliminandoCaracteres)
 * **#12** - 21/03/22 - [`¿ES UN PALÍNDROMO?`]
 * **#13** - 28/03/22 - [`FACTORIAL RECURSIVO`]
 * **#14** - 04/04/22 - [`¿ES UN NÚMERO DE ARMSTRONG?`]
