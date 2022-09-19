@@ -60,3 +60,4 @@ class AppZelda():
        # Resultado
        self.txt = f"La diferencia en días entre los juegos {self.tituloJuego1} y {self.tituloJuego2} es de {int(self.years)} años y {round(self.days * 365)} dias"
        messagebox.showinfo(message=self.txt, title="Diferencia de tiempo")
+win1 = AppZelda()
