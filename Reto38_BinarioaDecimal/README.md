@@ -24,6 +24,32 @@ por lo tanto:
 
 ## Funcionamiento del programa
 
-> En primer lugar, se solicitará al usuario que introduzca un número en binario, por lo únicamente se podrán introducir ceros y unos. 
-> Si los valores introducidos son correctos, se inicia una función recursiva que realizará los cálculos, tal y como se ha mostrado en el ejemplo anterior,
-> para retornar el valor en forma decimal.
+> En primer lugar, se solicitará al usuario que introduzca un número en binario, por lo únicamente se podrán introducir ceros y unos. Esta comprobación
+se realizará mediante la expresión regular "[^01]+"  
+Si el input es correcto éste se volteará de forma que se obtenga más fácilmente el índice (exponente) y el valor correspondientes. 
+En este punto se ejecutará una función recursiva que realizará los cálculos, tal y como se ha mostrado en el ejemplo anterior.
+
+Función:  
+```
+def calcularBinario(exp, n):
+    '''
+        Función recursiva. Recibe un número (1 o 0) y su índice en la cadena introducida
+        por el usuario. Con estos 2 valores se calculará la operación correspondiente a:
+        número (n) * 2 elevado al indice (exp)
+
+        Params: 111001
+            n (int) = valdrá 0 o 1
+            exp (int) = tiene el valor del índice que ocupa n en la cadena introducida por el usuario
+        
+        Return:
+            (int) = valor correspondiente a n*2**exp
+    '''
+    print(f"({n}*2^{exp})", end=" + ")
+    return n*2**exp
+```
+Loop:  
+```
+for i in range(0, len(nBinario)):
+    decimal += calcularBinario(i, int(nBinario[i]))
+```
+
