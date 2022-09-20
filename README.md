@@ -17,7 +17,7 @@
 * **#10** - 07/03/22 - [`EXPRESIONES EQUILIBRADAS`]
 * **#11** - 14/03/22 - [`ELIMINANDO CARACTERES`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto11_eliminandoCaracteres)
 * **#12** - 21/03/22 - [`¿ES UN PALÍNDROMO?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto12_palindromo)
-* **#13** - 28/03/22 - [`FACTORIAL RECURSIVO`]
+* **#13** - 28/03/22 - [`FACTORIAL RECURSIVO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto13_Factorial)
 * **#14** - 04/04/22 - [`¿ES UN NÚMERO DE ARMSTRONG?`]
 * **#15** - 11/04/22 - [`¿CUÁNTOS DÍAS?`]
 * **#16** - 18/04/22 - [`EN MAYÚSCULA`]
