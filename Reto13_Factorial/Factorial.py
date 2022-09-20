@@ -3,4 +3,7 @@ def factorialRecursivo(n):
         return 1
     return n * factorialRecursivo(n-1)
 
-print(factorialRecursivo(5))
+n = int(input("Introduce un numero para calcular su factorial: "))
+while n < 0:
+    n = int(input("El número debe ser positivo: "))
+print(factorialRecursivo(n))
