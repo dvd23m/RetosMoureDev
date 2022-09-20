@@ -20,7 +20,7 @@
 * **#13** - 28/03/22 - [`FACTORIAL RECURSIVO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto13_Factorial)
 * **#14** - 04/04/22 - [`¿ES UN NÚMERO DE ARMSTRONG?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto14_Amstrong)
 * **#15** - 11/04/22 - [`¿CUÁNTOS DÍAS?`]
-* **#16** - 18/04/22 - [`EN MAYÚSCULA`]
+* **#16** - 18/04/22 - [`EN MAYÚSCULA`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto18_EnMayuscula)
 * **#17** - 25/04/22 - [`LA CARRERA DE OBSTÁCULOS`]
 * **#18** - 02/05/22 - [`TRES EN RAYA`]
 * **#19** - 09/05/22 - [`CONVERSOR TIEMPO`]
