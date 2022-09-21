@@ -30,7 +30,7 @@
 * **#23** - 07/06/22 - [`MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO`]
 * **#24** - 13/06/22 - [`ITERATION MASTER` ]
 * **#25** - 20/06/22 - [`PIEDRA, PAPEL, TIJERA` ]
-* **#26** - 27/06/22 - [`CUADRADO Y TRIÁNGULO 2D` ]
+* **#26** - 27/06/22 - [`CUADRADO Y TRIÁNGULO 2D` ](https://github.com/dvd23m/RetosMoureDev/tree/main/reto26_CuadradoTriangulo)
 * **#27** - 07/07/22 - [`VECTORES ORTOGONALES`]
 * **#28** - 11/07/22 - [`MÁQUINA EXPENDEDORA`]
 * **#29** - 18/07/22 - [`ORDENA LA LISTA`]
