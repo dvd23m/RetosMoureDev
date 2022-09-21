@@ -34,7 +34,7 @@
 * **#27** - 07/07/22 - [`VECTORES ORTOGONALES`]
 * **#28** - 11/07/22 - [`MÁQUINA EXPENDEDORA`]
 * **#29** - 18/07/22 - [`ORDENA LA LISTA`]
-* **#30** - 26/07/22 - [`MARCO DE PALABRAS`]
+* **#30** - 26/07/22 - [`MARCO DE PALABRAS`](https://github.com/dvd23m/RetosMoureDev/tree/main/reto30_MarcoDePalabras)
 * **#31** - 01/08/22 - [`AÑOS BISIESTOS`]
 * **#32** - 08/08/22 - [`EL SEGUNDO`]
 * **#33** - 15/08/22 - [`CICLO SEXAGENARIO CHINO`]
