@@ -21,7 +21,7 @@ Para una n = 20
 ![](https://github.com/dvd23m/RetosMoureDev/blob/main/Reto3_NumerosPrimos/Captura%20desde%202022-09-07%2018-23-09.png)  
 
 4- Si el cuadrado del primer número que no ha sido rayado ni marcado es inferior a *n*, entonces se repite el segundo paso. Si no, el algoritmo termina, y todos los enteros no tachados son declarados primos.  
-Como $3^2 = 9 < 100$, se vuelve al segundo paso:  
+Como $3^2 = 9 < 20$, se vuelve al segundo paso:  
 ![](https://github.com/dvd23m/RetosMoureDev/blob/main/Reto3_NumerosPrimos/Captura%20desde%202022-09-07%2018-23-14.png)  
 
 En el cuarto paso, el primer número que no ha sido tachado ni marcado es 5. Como su cuadrado es mayor que *n*, el algoritmo termina y se consideran primos todos los números que no han sido tachados.
