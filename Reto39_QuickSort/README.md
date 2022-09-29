@@ -6,7 +6,7 @@ Dificultad: MEDIA
 Enunciado: Implementa uno de los algoritmos de ordenación más famosos: el "Quick Sort",  creado por C.A.R. Hoare.  
 Entender el funcionamiento de los algoritmos más utilizados de la historia nos ayuda a  mejorar nuestro conocimiento sobre ingeniería de software.  
 
-![](https://es.wikipedia.org/wiki/Quicksort#/media/Archivo:Sorting_quicksort_anim.gif)
+[](https://es.wikipedia.org/wiki/Quicksort#/media/Archivo:Sorting_quicksort_anim.gif)
 
 ## ¿Cómo funciona quick sort?
 En el siguiente ejemplo se marcan el pivote y los índices i y j con las letras p, i y j respectivamente.  
