@@ -43,3 +43,5 @@
 * **#36** - 06/09/22 - [`LOS ANILLOS DE PODER`]
 * **#37** - 14/09/22 - [`LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto37_Zelda)
 * **#38** - 19/09/22 - [`BINARIO A DECIMAL`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto38_BinarioaDecimal)
+* **#39** - 27/09/22 - [`TOP ALGORITMOS: QUICK SORT`]()
+
