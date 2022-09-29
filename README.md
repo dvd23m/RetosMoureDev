@@ -36,7 +36,7 @@
 * **#29** - 18/07/22 - [`ORDENA LA LISTA`]
 * **#30** - 26/07/22 - [`MARCO DE PALABRAS`](https://github.com/dvd23m/RetosMoureDev/tree/main/reto30_MarcoDePalabras)
 * **#31** - 01/08/22 - [`AÑOS BISIESTOS`]
-* **#32** - 08/08/22 - [`EL SEGUNDO`]
+* **#32** - 08/08/22 - [`EL SEGUNDO`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto32_elSegundo)
 * **#33** - 15/08/22 - [`CICLO SEXAGENARIO CHINO`]
 * **#34** - 22/08/22 - [`LOS NÚMEROS PERDIDOS`]
 * **#35** - 29/08/22 - [`BATALLA POKÉMON`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto35_BatallaPokemon)
