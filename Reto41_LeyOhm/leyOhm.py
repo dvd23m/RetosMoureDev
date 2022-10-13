@@ -34,7 +34,7 @@ def comprobarValor(valores):
         parametros: lista con números y una cadena vacia
     '''
     # Únicamente debe faltar 1 dato
-    if valores.count("")>1 or valores.count("")==0:
+    if valores.count("")!=1:
         print("Invalid values")
         return
     # Transformacion de tipos    
