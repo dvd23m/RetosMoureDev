@@ -45,3 +45,4 @@
 * **#38** - 19/09/22 - [`BINARIO A DECIMAL`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto38_BinarioaDecimal)
 * **#39** - 27/09/22 - [`TOP ALGORITMOS: QUICK SORT`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto39_QuickSort)
 * **#40** - 03/10/22 - [`TRIÁNGULO DE PASCAL`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto_40_TrianguloDePascal)
+* **#41** - 10/10/22 - [`LA LEY DE OHM`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto41_LeyOhm)
