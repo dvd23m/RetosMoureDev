@@ -2,7 +2,7 @@
 
 > [RetosMoureDev](https://retosdeprogramacion.com/semanales2022) es un proyecto donde se anima a desarrolladores a realizar distintos retos semanales con el fin de mejorar la lógica de programación. Cada desarrollador es libre de escoger el lenguaje para resolverlos. A medida que los vaya completando, los iré subiendo.
 
-## Listado de retos '22
+## Listado de retos '22 / [`Listado de retos '23`]
 
 * **#0** - 27/12/21 - [`EL FAMOSO "FIZZ BUZZ"`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto1_fizzbizz)
 * **#1** - 03/01/22 - [`¿ ES UN ANAGRAMA ?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto2_Anagrama)
@@ -47,47 +47,3 @@
 * **#40** - 03/10/22 - [`TRIÁNGULO DE PASCAL`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto_40_TrianguloDePascal)
 * **#41** - 10/10/22 - [`LA LEY DE OHM`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto41_LeyOhm)
 
-## Listado de retos '23
-
-* **#0** - 26/12/23 - [`EL FAMOSO "FIZZ BUZZ"`]
-* **#1** - 09/01/22 - [`EL LENGUAJE HACKER`]
-* **#2** - 10/01/22 - [`EL PARTIDO DE TENIS`]
-* **#3** - 17/01/22 - [`EL GENERADOR DE CONTRASEÑAS`]
-* **#4** - 24/01/22 - [`PRIMO, FIBONACCI Y PAR`]
-* **#5** - 01/02/22 - [`HOLA MUNDO`]
-* **#6** - 07/02/22 - [`PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK`]
-* **#7** - 14/02/22 - [`EL SOMBRERO SELECCIONADOR`]
-* **#8** - 18/02/22 - [`EL GENERADOR PSEUDOALEATORIO`]
-* **#9** - 02/03/22 - [`HETEROGRAMA, ISOGRAMA, PANAGRAMA`]
-* **#10** - 07/03/22 - [`LA API`]
-* **#11** - 14/03/22 - [`URL PARAMS`]
-* **#12** - 21/03/22 - [`VIERNES 13`]
-* **#13** - 28/03/22 - [`ADIVINA LA PALABRA`]
-* **#14** - 04/04/22 - [`OVTAL Y EXADECIMAL`]
-* **#15** - 11/04/22 - [`AUREBESH`]
-* **#16** - 18/04/22 - [`LA ESCALERA`]
-* **#17** - 25/04/22 - [`GIT Y GITHUB`]
-* **#18** - 02/05/22 - [`WEB SCRAPING`]
-* **#19** - 09/05/22 - [`ANALISIS DE TEXTO`]
-* **#20** - 16/05/22 - [`LA TRIFUERZA`]
-* **#21** - 23/05/22 - [`NÚMEROS PRIMOS GEMELOS` ]
-* **#22** - 01/06/22 - [`LA ESPIRAL` ]
-* **#23** - 07/06/22 - [`LA BASE DE DATOS`]
-* **#24** - 13/06/22 - [`CIFRADO CÉSAR` ]
-* **#25** - 20/06/22 - [`CÓDIGO KONAMI` ]
-* **#26** - 27/06/22 - [`TESTING` ]
-* **#27** - 07/07/22 - [`CUENTA ATRAS`]
-* **#28** - 11/07/22 - [`EXPRESION MATEMÁTICA`]
-* **#29** - 18/07/22 - [`EL CARÁCTER INFILTRADO`]
-* **#30** - 26/07/22 - [`EL TECLADO T9`]
-* **#31** - 01/08/22 - [`EL ÁBACO`]
-* **#32** - 07/08/23 - [`LA COLUMNA DE EXCEL`](https://github.com/dvd23m/RetosMoureDev/blob/main/RETOS2023/Reto32_LaColumnaDeExcel/)
-* **#33** - 15/08/22 - [`TETRIS`]
-* **#34** - 22/08/22 - [`EL TXT`]
-* **#35** - 29/08/22 - [``]
-* **#36** - 06/09/22 - [``]
-* **#37** - 14/09/22 - [``]
-* **#38** - 19/09/22 - [``]
-* **#39** - 27/09/22 - [``]
-* **#40** - 03/10/22 - [``]
-* **#41** - 10/10/22 - [``]
