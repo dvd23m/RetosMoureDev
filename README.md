@@ -2,7 +2,7 @@
 
 > [RetosMoureDev](https://retosdeprogramacion.com/semanales2022) es un proyecto donde se anima a desarrolladores a realizar distintos retos semanales con el fin de mejorar la lógica de programación. Cada desarrollador es libre de escoger el lenguaje para resolverlos. A medida que los vaya completando, los iré subiendo.
 
-## Listado de retos
+## Listado de retos '22
 
 * **#0** - 27/12/21 - [`EL FAMOSO "FIZZ BUZZ"`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto1_fizzbizz)
 * **#1** - 03/01/22 - [`¿ ES UN ANAGRAMA ?`](https://github.com/dvd23m/RetosMoureDev/tree/main/Reto2_Anagrama)
