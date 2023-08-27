@@ -81,7 +81,7 @@
 * **#29** - 18/07/22 - [`EL CARÁCTER INFILTRADO`]
 * **#30** - 26/07/22 - [`EL TECLADO T9`]
 * **#31** - 01/08/22 - [`EL ÁBACO`]
-* **#32** - 07/08/23 - [`LA COLUMNA DE EXCEL`]
+* **#32** - 07/08/23 - [`LA COLUMNA DE EXCEL`](https://github.com/dvd23m/RetosMoureDev/blob/main/RETOS2023/Reto32_LaColumnaDeExcel/)
 * **#33** - 15/08/22 - [`TETRIS`]
 * **#34** - 22/08/22 - [`EL TXT`]
 * **#35** - 29/08/22 - [``]
