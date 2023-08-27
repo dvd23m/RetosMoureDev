@@ -1,7 +1,7 @@
 ## Listado de retos '23
 
 * **#0** - 26/12/23 - [`EL FAMOSO "FIZZ BUZZ"`]
-* **#1** - 09/01/22 - [`EL LENGUAJE HACKER`]
+* **#1** - 09/01/22 - [`EL LENGUAJE HACKER`](https://github.com/dvd23m/RetosMoureDev/tree/main/RETOS2023/Reto1_LenguajeHacker)
 * **#2** - 10/01/22 - [`EL PARTIDO DE TENIS`]
 * **#3** - 17/01/22 - [`EL GENERADOR DE CONTRASEÑAS`]
 * **#4** - 24/01/22 - [`PRIMO, FIBONACCI Y PAR`]
